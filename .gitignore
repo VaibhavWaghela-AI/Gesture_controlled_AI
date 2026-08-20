@@ -1,0 +1,12 @@
+# Python environment and cache
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+
+# Ignore Jupyter Notebook checkpoints if you ever use them
+.ipynb_checkpoints/
+
+# Ignore any secret API keys (just in case you add them later)
+.env
